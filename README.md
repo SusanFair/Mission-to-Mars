@@ -2,7 +2,7 @@
 This challenge pulled together several weeks of learning in HTML, Web_scraping and data analysis and plotting.
 
 ### Overview 
-Web scraping pulled in 
+Web scraping pulled in from two different websites about the Mission to Mars.  Each site provided different information that could be accessed and stored for data analysis.  
 
 
 ### Results
@@ -13,13 +13,13 @@ Web scraping pulled in
  Table data was scraped and Pandas was used to perform data analysis on the date.  This analysis resulted in several charts:
  
 
- * Mars average minimum temperatures by month
+ * Mars average minimum temperatures by month :
 ![Avg Min Temp](https://github.com/SusanFair/Mission-to-Mars/blob/main/Resources/avg_min_temp.png)
 
-* Mars average pressure by month
+* Mars average pressure by month :
     ![Avg Pressure](https://github.com/SusanFair/Mission-to-Mars/blob/main/Resources/avg_pressure.PNG)
 
-* Mars yearly cycles based on minimum temperatures
+* Mars yearly cycles based on minimum temperatures :
     ![Alt text](https://github.com/SusanFair/Mission-to-Mars/blob/main/Resources/Mars_temp_cycles.PNG)
 
 #### Details
