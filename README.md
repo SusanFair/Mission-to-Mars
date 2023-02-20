@@ -10,11 +10,11 @@ Web scraping pulled in
 * Titles and Previews were scrapped for each of the home page topics and saved into a CSV file which can be found here: [mars_data.csv](https://github.com/SusanFair/Mission-to-Mars/blob/main/mars_data.csv)
 
  #### Part 2 : This is a webscraping exercise using the [Mars Temperature Date site](https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html)
- * Table data was scraped and Pandas was used to perform data analysis on the date.  This analysis resulted in several charts:
+ Table data was scraped and Pandas was used to perform data analysis on the date.  This analysis resulted in several charts:
  
 
  * Mars average minimum temperatures by month
-    ![Avg Min Temperatures](https://github.com/SusanFair/Mission-to-Mars/blob/main/Resources/avg_min_temp.PNG)
+![Avg Min Temp](https://github.com/SusanFair/Mission-to-Mars/blob/main/Resources/avg_min_temp.png)
 
 * Mars average pressure by month
     ![Avg Pressure](https://github.com/SusanFair/Mission-to-Mars/blob/main/Resources/avg_pressure.PNG)
@@ -25,5 +25,4 @@ Web scraping pulled in
 #### Details
 For detailed information and review the analysis please see the 2 working files:
 * [Part 1 Jupyter Notebook](https://github.com/SusanFair/Mission-to-Mars/blob/main/part_1_mars_news.ipynb)
-
 * [Part 2 Jupyter Notebooklabel](https://github.com/SusanFair/Mission-to-Mars/blob/main/part_2_mars_weather.ipynb)
