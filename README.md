@@ -2,7 +2,7 @@
 This challenge pulled together several weeks of learning in HTML, Web_scraping, data analysis and plotting.
 
 ### Overview 
-Web scraping pulled in from two different websites each containing information on the Mission to Mars.  Each site provided different information that could be accessed and stored for further data analysis.  
+Web scraping pulled information from two different websites each containing information on the Mission to Mars.  Each site provided different information that could be accessed and stored for further data analysis.  
 
 
 ### Results
@@ -19,7 +19,7 @@ Web scraping pulled in from two different websites each containing information o
 * Mars average pressure by month :
     ![Avg Pressure](https://github.com/SusanFair/Mission-to-Mars/blob/main/Resources/avg_pressure.PNG)
 
-* Mars yearly cycles based on minimum temperatures :
+* Mars yearly cycles based on peak temperatures :
     ![Alt text](https://github.com/SusanFair/Mission-to-Mars/blob/main/Resources/Mars_temp_cycles.PNG)
 
 Summary data for Part 2 can be found in the following CSV file:
